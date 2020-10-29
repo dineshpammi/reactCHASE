@@ -1,0 +1,26 @@
+.foudiv1{margin-top:25px;display: flex;justify-content: space-between;
+    width: 100%;
+    height:50px;
+    background-color: blue
+}
+.foudiv1>div{color:white;font-size: 18px;font-weight: bold;padding: 10px;}
+.fobx{display: flex;}
+.fobx1{padding: 8px 30px 1px 75px;}
+.fobx2{padding: 8px 30px 1px 55px;}
+.foic{display: flex;justify-content: space-between;}
+.focirc{width: 70px;height: 70px;background-color: rgb(50, 195, 240);margin-left: 30px; margin-top: 15px;border-radius: 50%;}
+.foic>div{text-align: center;}
+.fospn{font-size: 40px;padding-top: 55px;}
+.foform{margin-left: 35px;}
+.fool>li{display: inline-block;padding: 4px;font-size: 14px;border: 1px solid black;border-radius: 5px;}
+.foform>input{width:80%;padding: 10px;}
+#foip{font-size: 10px;margin-left: 69px;}
+.foform1{margin-left: 35px;}
+.foform1>input{width:80%;padding: 10px;}
+#tick:before{content: '✓';   color:green;    }
+.fofo2>input{width:80%;padding: 10px;}
+.fofo2{margin-left: 35px;}
+#fotab{margin-left: 69px;width: 76%;font-weight: bold;text-align: center;padding: 15px;}
+.fofin{padding:8px;border: 1px solid black;margin-left: 65px;margin-right: 245px;}
+
+

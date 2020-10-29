@@ -1,0 +1,57 @@
+#ab{
+    font-size: medium;
+    text-align: center;
+    padding: 10px;
+}
+ul li{display: inline;
+     font-size: 14px;
+    }
+#b{background-color: darkslategray;
+    color: white;
+    }
+#ul{padding-left: 250px;
+    border-top: 1px solid black;}
+span#c{text-align: center;
+    padding-left: 520px}
+#ul1{font-weight: bold;padding: 8px;}
+#d{font-size: 18px;}
+#chase{
+    font-size: 25px;
+    font-family: courier;
+}
+span#d{padding-left: 680px;}
+.box{width:100%;
+    height:350px;
+    /* background-color: rgba(2, 2, 129, 0.938); */
+    background-image: linear-gradient(to bottom right, black, blue);
+    display: flex;}
+.fb{padding-left: 100px;
+    padding-top: 80px; margin-top: 20px;}
+.fb>p{color: white;
+      font-size: 16px;
+      font-weight: bold;}
+#two{color: white;font-size: 62px; margin-left: 11px; margin-top: -50px;
+}
+#span{
+    font-size: 24px;
+    color:white}
+.fb1{
+    padding-top: 80px; padding-left: 10px; margin-top: 20px;
+    color: white;font-size: 24px; font-weight: bold;
+}
+#btn{margin-top: 10px;}
+#su{font-size: 12px; font-weight: normal;}
+#ed{width: 260px; height: 120px;background-color: white;margin-left: 550px;margin-top: 80px;border-radius: 5px;
+    padding: 20px;
+ }
+ #ed>p{font-size: 16px;font-weight: bold;}
+ #ed>button{padding-left: 90px;padding-right: 90px;margin-bottom: 10px;}
+#h11{text-align: center; margin-top: 20px;}
+.fa{font-size:24px;}
+#card{font-size:24px;}
+img{width:30px;
+    height: 30px;
+    margin-top: 10px;}
+#img{font-size: 20px;}
+.div3{display: flex; justify-content: space-around;color:blue;text-align: center;}
+#car{color:rgb(56, 52, 52);font-size: 36px;margin-top: 10px;}

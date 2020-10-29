@@ -1,0 +1,10 @@
+.fibg{position: relative;}
+.fibg>img{width: 100%; height:220px;}
+.fitx{position: absolute;top:16px;left:25px;color:white;font-weight: bold;}
+.fitx1{position: absolute;top:100px;left:328px;color:white;font-weight: bold;}
+.final{width:500px;height: 500px;background-color: white;border-radius: 5px;color:black;padding: 10px;}
+#fivsp{border:1px solid black;padding: 10px;}
+.fibx{border: 1px solid black;height: 200px;width:470px}
+.fitx2{position: absolute;position: absolute;top:130px;left:850px;color:white;}
+.fiwh{background-color: white;width: 200px;height: 500px;border-radius: 5px;padding:10px;color: black;}
+.fiwh>img{width:180px;height:110px}
